@@ -38,6 +38,7 @@ Dataset contains 6,034,195 rows. The columns in the table are:
 ## Example Data Point
 
 Title:  Implementing Boundary Value Analysis of Software Testing in a C++ program?
+
 Body : 
 
         #include<
@@ -90,7 +91,6 @@ Body :
                  return 0;    \n
         }\n
         
-\n\n
     <p>The answer should come in the form of a table like</p>\n\n
     <pre><code>       
     1            50              50\n       
